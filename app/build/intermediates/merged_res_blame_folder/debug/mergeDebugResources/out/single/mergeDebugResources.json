@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_powerbank.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_powerbank.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_rich_dad.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_rich_dad.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_deep_work.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_deep_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_loafers.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_loafers.xml"
+    },
+    {
+        "merged": "com.example.shopapp-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.shopapp-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_honey.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_honey.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_sneakers.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_sneakers.xml"
+    },
+    {
+        "merged": "com.example.shopapp-debug-32:/layout_activity_order_history.xml.flat",
+        "source": "com.example.shopapp-main-34:/layout/activity_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_noodles.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_noodles.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_ic_product_placeholder.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\ic_product_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_earbuds.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_earbuds.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_qty_button_background.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\qty_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_blazer.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_blazer.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_coffee.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_coffee.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_chocolate.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_chocolate.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_smartwatch.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_smartwatch.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_panset.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_panset.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_atomic_habits.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_atomic_habits.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_desklamp.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_desklamp.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_candles.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_candles.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_charger.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_charger.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_airfryer.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_airfryer.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\layout_item_cart.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_dryfruits.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_dryfruits.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_tshirt.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_tshirt.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_alchemist.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_alchemist.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_shorts.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_shorts.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_speaker.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_speaker.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_running_shoes.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_running_shoes.xml"
+    },
+    {
+        "merged": "com.example.shopapp-debug-32:/layout_activity_wishlist.xml.flat",
+        "source": "com.example.shopapp-main-34:/layout/activity_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_hoodie.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_hoodie.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_flipflops.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_flipflops.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_badge_background.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_waterbottle.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_waterbottle.xml"
+    },
+    {
+        "merged": "com.example.shopapp-debug-32:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.shopapp-main-34:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_jeans.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_jeans.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\drawable_img_zero_to_one.xml.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\drawable\\img_zero_to_one.xml"
+    },
+    {
+        "merged": "com.example.shopapp-debug-32:/layout_item_order.xml.flat",
+        "source": "com.example.shopapp-main-34:/layout/item_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-debug-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\optim\\.gradle\\daemon\\8.9\\com.example.shopapp-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
