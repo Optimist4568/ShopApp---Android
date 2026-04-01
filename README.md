@@ -9,7 +9,7 @@
 ![Material Design](https://img.shields.io/badge/UI-Material%20Design-blue?style=for-the-badge&logo=materialdesign)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-*A college project demonstrating core Android development concepts —
+*A college project demonstrating core Android development concepts,
 built entirely from scratch in Java with no backend or external APIs.*
 
 </div>
